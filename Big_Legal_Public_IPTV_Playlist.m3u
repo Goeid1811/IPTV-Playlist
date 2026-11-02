@@ -1,0 +1,125 @@
+#EXTM3U
+# Legal/public IPTV starter playlist
+# Note: free public streams can be geo-blocked or changed by their operators.
+
+# ================= COLOMBIA =================
+#EXTINF:-1 group-title="🇨🇴 Colombia",Señal Colombia
+http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 Colombia",Canal Institucional
+http://190.61.47.54:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 Colombia",Telecaribe
+http://138.121.15.230:9002/TELECARIBE/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 Colombia",Teleantioquia
+http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 Colombia",Telepacífico
+http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 Colombia",Canal TRO
+http://190.61.47.54:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 Colombia",Canal Capital
+http://190.61.47.54:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 Colombia",Citytv Bogotá
+http://190.61.47.54:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 Colombia",Canal 1
+http://190.61.47.54:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 Colombia",Teleislas
+http://190.61.47.54:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 Colombia",Trece
+http://190.60.46.228:8888/play/a030/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 Colombia",TVAgro
+http://168.228.44.241:9999/play/a04n/index.m3u8
+#EXTINF:-1 group-title="🇨🇴 Colombia",TeleNostalgia
+http://38.134.250.110:8000/play/a01q/index.m3u8
+
+# ================= SPORTS =================
+# Free/ad-supported or public sports channels
+#EXTINF:-1 group-title="🏟️ Sports",Fubo Sports Network
+https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2ec80781f9/playlist.m3u8
+#EXTINF:-1 group-title="🏟️ Sports",PGA TOUR
+https://live-manifest.production-public.tubi.io/live/5efa4318-2569-4979-97b9-ad984427ba37/playlist.m3u8
+#EXTINF:-1 group-title="🏟️ Sports",PLL Network
+https://live-manifest.production-public.tubi.io/live/a85525c7-da51-4d48-87bc-d5de1e7ca02f/playlist.m3u8
+#EXTINF:-1 group-title="🏟️ Sports",Outside
+https://live-manifest.production-public.tubi.io/live/e5155e67-1567-41c8-8964-8ef94f7633ff/playlist.m3u8
+#EXTINF:-1 group-title="🏟️ Sports",SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🏟️ Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="🏟️ Sports",Real Madrid TV English
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 group-title="🏟️ Sports",FUEL TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+#EXTINF:-1 group-title="🏟️ Sports",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🏟️ Sports",Unbeaten
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🏟️ Sports",Fight Sports
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🏟️ Sports",Players TV
+https://playerstv-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🏟️ Sports",Turkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004.m3u8
+
+# ================= KIDS =================
+#EXTINF:-1 group-title="🧸 Kids",Kartoon Channel
+https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8
+#EXTINF:-1 group-title="🧸 Kids",PBS Kids
+https://tvsen7.aynascope.net/pbskids/index.m3u8
+#EXTINF:-1 group-title="🧸 Kids",BabyFirst Spanish
+http://168.228.44.241:9997/play/a07u/index.m3u8
+#EXTINF:-1 group-title="🧸 Kids",Semillitas
+http://38.252.238.18:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="🧸 Kids",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 group-title="🧸 Kids",Nick Online
+https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 group-title="🧸 Kids",Nick Online Bob Esponja
+https://bob.x1colegal.com/hls/stream.m3u8
+
+# ================= MOVIES =================
+# Free/ad-supported movie channels
+#EXTINF:-1 group-title="🎬 Movies",24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1 group-title="🎬 Movies",Actionable
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25a1932c8368bdbfd87d/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Movies",Bloody Disgusting
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Movies",Maxcine
+https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Movies",Maxcine Comedy
+https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Movies",Maxcine Family
+https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Movies",Maxcine Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+
+# ================= SERIES / ENTERTAINMENT =================
+#EXTINF:-1 group-title="📺 Series & Entertainment",Game Show Central
+https://live-manifest.production-public.tubi.io/live/37d25c4d-ae6a-4182-a830-12e09479ad85/playlist.m3u8
+#EXTINF:-1 group-title="📺 Series & Entertainment",Gardening with Monty Don
+https://live-manifest.production-public.tubi.io/live/ab6d635a-6d89-4228-93a6-c3a98980450c/playlist.m3u8
+#EXTINF:-1 group-title="📺 Series & Entertainment",Paws & Claws
+https://live-manifest.production-public.tubi.io/live/29c0f72f-e546-4599-a7d5-ad1c2928d531/playlist.m3u8
+#EXTINF:-1 group-title="📺 Series & Entertainment",TBN
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
+#EXTINF:-1 group-title="📺 Series & Entertainment",TCT
+https://cdn.jwplayer.com/live/broadcast/frRD2nUK.m3u8
+#EXTINF:-1 group-title="📺 Series & Entertainment",TBN Inspire
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
+
+# ================= NEWS / PUBLIC =================
+#EXTINF:-1 group-title="📰 News",CNN Español
+https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
+#EXTINF:-1 group-title="📰 News",FOX Weather
+https://live-manifest.production-public.tubi.io/live/f1fd1442-62f5-4663-9049-c08c27f6d980/playlist.m3u8
+#EXTINF:-1 group-title="📰 News",CNN International
+https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
+
+# ================= MUSIC =================
+#EXTINF:-1 group-title="🎵 Music",HTV
+https://streaming.onnethn.com/HTV/playlist.m3u8
+
+# ================= SCIENCE / DOCUMENTARY =================
+#EXTINF:-1 group-title="🔬 Documentary",Love Nature en Español
+https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8
+#EXTINF:-1 group-title="🔬 Documentary",National Geographic Latin America
+http://45.173.231.22:8000/play/a05z/index.m3u8
